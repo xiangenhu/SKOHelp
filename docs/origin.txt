@@ -1,0 +1,1920 @@
+Uri: http://help.skoonline.org/
+File Name: C:\SKOHelp\help.skoonline.org\index.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home
+File Name: C:\SKOHelp\help.skoonline.org\home.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/_/rsrc/1461453499000/system/app/css/overlay.css?cb=leatherpanel5a950px150goog-ws-leftcontent30themedefaultstandard
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1461453499000\system\app\css\overlay.css
+Content Type: text/css
+
+Uri: http://help.skoonline.org/_/rsrc/1461453499000/system/app/css/camelot/allthemes-view.css
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1461453499000\system\app\css\camelot\allthemes-view.css
+Content Type: text/css
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/information-delivery-only
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\information-delivery-only.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/information-delivery-with-self-reflection
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\information-delivery-with-self-reflection.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/matching
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\matching.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/multiple-choice
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\multiple-choice.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/fill-in-blank
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\fill-in-blank.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/tutoring-autotutor-lite
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\tutoring-autotutor-lite.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/auto-tutor-native
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\auto-tutor-native.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/learning-object-metadata
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\learning-object-metadata.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/simplest-method
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\simplest-method.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/go-to-home-page
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\go-to-home-page.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/login-to-google-account
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\login-to-google-account.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/name-your-sko
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\name-your-sko.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/4-save-your-sko
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\4-save-your-sko.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/sko-author-notes
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\sko-author-notes.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/6-select-your-avatars
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\6-select-your-avatars.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/7-configure-components-scene-defaults
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\7-configure-components-scene-defaults.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/information-delivery-step-by-step
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\information-delivery-step-by-step.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/information-delivery-step-by-step/1-adding--removing-scenes
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\information-delivery-step-by-step\1-adding--removing-scenes.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/information-delivery-step-by-step/2-editing-scene-spoken-text
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\information-delivery-step-by-step\2-editing-scene-spoken-text.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/information-delivery-step-by-step/3-configuring-individual-scene
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\information-delivery-step-by-step\3-configuring-individual-scene.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/self-reflection-step-by-step
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\self-reflection-step-by-step.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/self-reflection-step-by-step/1-inserting-self-reflection-assessment
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\self-reflection-step-by-step\1-inserting-self-reflection-assessment.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/self-reflection-step-by-step/2-authoring-self-reflection-assessment
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\self-reflection-step-by-step\2-authoring-self-reflection-assessment.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/self-reflection-step-by-step/3-semantic-answer
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\self-reflection-step-by-step\3-semantic-answer.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/self-reflection-step-by-step/4-configure-feedback
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\self-reflection-step-by-step\4-configure-feedback.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/opening-autotutor-lite-and-adding-an-asat-interaction
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\opening-autotutor-lite-and-adding-an-asat-interaction.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/2-adding-a-new-tutoring-pack-or-editing-an-existing-tutoring-pack
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\2-adding-a-new-tutoring-pack-or-editing-an-existing-tutoring-pack.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/21-what-is-a-tutoring-pack
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\21-what-is-a-tutoring-pack.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/3-creating-your-first-question
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\3-creating-your-first-question.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/31-creating-answers-for-your-question
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\31-creating-answers-for-your-question.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/4-creating-expectations-for-your-questions
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\4-creating-expectations-for-your-questions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/41-creating-answers-for-your-expectations
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\41-creating-answers-for-your-expectations.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/42-creating-hints-for-your-expectations
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\42-creating-hints-for-your-expectations.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/43-creating-prompts-for-your-expectations
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\43-creating-prompts-for-your-expectations.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/5-creating-misconceptions-for-your-questions
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\5-creating-misconceptions-for-your-questions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/51-creating-answers-for-your-misconceptions
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\51-creating-answers-for-your-misconceptions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/52-creating-hints-for-your-misconceptions
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\52-creating-hints-for-your-misconceptions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/asat-in-autotutor-lite-step-by-step/53-creating-prompts-for-your-misconceptions
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\asat-in-autotutor-lite-step-by-step\53-creating-prompts-for-your-misconceptions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/tutoring-assessment-step-by-step
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\tutoring-assessment-step-by-step.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/tutoring-assessment-step-by-step/1-adding-a-tutoring-assessment-to-your-sko
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\tutoring-assessment-step-by-step\1-adding-a-tutoring-assessment-to-your-sko.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/tutoring-assessment-step-by-step/2-adding-your-seed-question
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\tutoring-assessment-step-by-step\2-adding-your-seed-question.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/tutoring-assessment-step-by-step/3-adding-your-expectations
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\tutoring-assessment-step-by-step\3-adding-your-expectations.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/tutoring-assessment-step-by-step/32-establishing-your-expectations-semantic-answer
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\tutoring-assessment-step-by-step\32-establishing-your-expectations-semantic-answer.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/tutoring-assessment-step-by-step/31-adding-hints-for-your-expectations
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\tutoring-assessment-step-by-step\31-adding-hints-for-your-expectations.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/system/app/pages/reportAbuse
+File Name: C:\SKOHelp\help.skoonline.org\system\app\pages\reportAbuse.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/_/rsrc/1461453499000/system/app/images/camelot.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1461453499000\system\app\images\camelot.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/information-delivery-only/details
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\information-delivery-only\details.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/information-delivery-with-self-reflection/detailsofselfreflection
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\information-delivery-with-self-reflection\detailsofselfreflection.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/information-delivery-with-self-reflection/possibleactions
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\information-delivery-with-self-reflection\possibleactions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/panel2
+File Name: C:\SKOHelp\help.skoonline.org\en\panel2.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/matching/possibleactions
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\matching\possibleactions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/multiple-choice/authoring-multiple-choice-sko
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\multiple-choice\authoring-multiple-choice-sko.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/fill-in-blank/fill-in-the-blank-authoring
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\fill-in-blank\fill-in-the-blank-authoring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/tutoring-autotutor-lite/tutoring-autotutor-lite
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\tutoring-autotutor-lite\tutoring-autotutor-lite.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/auto-tutor-native/auto-tutor-native
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\auto-tutor-native\auto-tutor-native.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/whatislom
+File Name: C:\SKOHelp\help.skoonline.org\en\whatislom.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/learning-object-metadata-help-index
+File Name: C:\SKOHelp\help.skoonline.org\en\learning-object-metadata-help-index.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/applicable-learning-principles--question-types-index
+File Name: C:\SKOHelp\help.skoonline.org\en\applicable-learning-principles--question-types-index.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/8-save-your-sko-profile
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\8-save-your-sko-profile.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/common-for-all/simplest-method/xapitest
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\common-for-all\simplest-method\xapitest.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/adding-self-reflection-general-info
+File Name: C:\SKOHelp\help.skoonline.org\en\adding-self-reflection-general-info.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/testconfig
+File Name: C:\SKOHelp\help.skoonline.org\en\testconfig.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/teacheravatarpanel
+File Name: C:\SKOHelp\help.skoonline.org\en\teacheravatarpanel.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/pagecontrol1
+File Name: C:\SKOHelp\help.skoonline.org\en\pagecontrol1.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/questions
+File Name: C:\SKOHelp\help.skoonline.org\en\questions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/mediaspecs
+File Name: C:\SKOHelp\help.skoonline.org\en\mediaspecs.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/self-reflection-step-by-step/3-semantic-answer-1
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\self-reflection-step-by-step\3-semantic-answer-1.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/self-reflection-editor-semantic-answer
+File Name: C:\SKOHelp\help.skoonline.org\en\self-reflection-editor-semantic-answer.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/self-reflection-editor-configure-feedback
+File Name: C:\SKOHelp\help.skoonline.org\en\self-reflection-editor-configure-feedback.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/configurelccfeedback
+File Name: C:\SKOHelp\help.skoonline.org\en\configurelccfeedback.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/tutoring-authoring-seed-question-general-info
+File Name: C:\SKOHelp\help.skoonline.org\en\tutoring-authoring-seed-question-general-info.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/tutoring-expectations
+File Name: C:\SKOHelp\help.skoonline.org\en\tutoring-expectations.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/tutoring-hints
+File Name: C:\SKOHelp\help.skoonline.org\en\tutoring-hints.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/listofhintorprompt
+File Name: C:\SKOHelp\help.skoonline.org\en\listofhintorprompt.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/configsemanticspace
+File Name: C:\SKOHelp\help.skoonline.org\en\configsemanticspace.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/list-of-sko-modules/auto-tutor-native/auto-tutor-native/using-regex-for-your-answer-keys
+File Name: C:\SKOHelp\help.skoonline.org\home\list-of-sko-modules\auto-tutor-native\auto-tutor-native\using-regex-for-your-answer-keys.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/addcannedspeech
+File Name: C:\SKOHelp\help.skoonline.org\en\addcannedspeech.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/script-information
+File Name: C:\SKOHelp\help.skoonline.org\home\script-information.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/system
+File Name: C:\SKOHelp\help.skoonline.org\system.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/system/app
+File Name: C:\SKOHelp\help.skoonline.org\system\app.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/system/app/pages
+File Name: C:\SKOHelp\help.skoonline.org\system\app\pages.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/addidframewin
+File Name: C:\SKOHelp\help.skoonline.org\en\addidframewin.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/pnqlocation
+File Name: C:\SKOHelp\help.skoonline.org\en\pnqlocation.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/_/rsrc/1461453499000/system/app/css/camelot/dashboard.css
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1461453499000\system\app\css\camelot\dashboard.css
+Content Type: text/css
+
+Uri: http://help.skoonline.org/_/rsrc/1461453499000/system/app/css/camelot/error.css
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1461453499000\system\app\css\camelot\error.css
+Content Type: text/css
+
+Uri: http://help.skoonline.org/en/titleofscene
+File Name: C:\SKOHelp\help.skoonline.org\en\titleofscene.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/mediaurls
+File Name: C:\SKOHelp\help.skoonline.org\en\mediaurls.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/backgroundimage
+File Name: C:\SKOHelp\help.skoonline.org\en\backgroundimage.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/studentavatarpanel1
+File Name: C:\SKOHelp\help.skoonline.org\en\studentavatarpanel1.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/studentavatarpanel2
+File Name: C:\SKOHelp\help.skoonline.org\en\studentavatarpanel2.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/pnqenable
+File Name: C:\SKOHelp\help.skoonline.org\en\pnqenable.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/self-reflection-seed-question
+File Name: C:\SKOHelp\help.skoonline.org\en\self-reflection-seed-question.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en
+File Name: C:\SKOHelp\help.skoonline.org\en.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/panel2/authoring-matching-assessment
+File Name: C:\SKOHelp\help.skoonline.org\en\panel2\authoring-matching-assessment.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/choice_author
+File Name: C:\SKOHelp\help.skoonline.org\en\choice_author.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/typeofchoice
+File Name: C:\SKOHelp\help.skoonline.org\en\typeofchoice.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/edithints
+File Name: C:\SKOHelp\help.skoonline.org\en\edithints.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/editfeedback
+File Name: C:\SKOHelp\help.skoonline.org\en\editfeedback.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/includechoice
+File Name: C:\SKOHelp\help.skoonline.org\en\includechoice.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/fibauthoring
+File Name: C:\SKOHelp\help.skoonline.org\en\fibauthoring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/tutoring-ideal-answer
+File Name: C:\SKOHelp\help.skoonline.org\en\tutoring-ideal-answer.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/tutoring-semantic-answer
+File Name: C:\SKOHelp\help.skoonline.org\en\tutoring-semantic-answer.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/loadlocalfile
+File Name: C:\SKOHelp\help.skoonline.org\en\loadlocalfile.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/genderanddisplayname
+File Name: C:\SKOHelp\help.skoonline.org\en\genderanddisplayname.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/listofspeeches
+File Name: C:\SKOHelp\help.skoonline.org\en\listofspeeches.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/tutor
+File Name: C:\SKOHelp\help.skoonline.org\en\tutor.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/rigidpackcontrol
+File Name: C:\SKOHelp\help.skoonline.org\en\rigidpackcontrol.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/regidpackeditor
+File Name: C:\SKOHelp\help.skoonline.org\en\regidpackeditor.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/tutoringpacks
+File Name: C:\SKOHelp\help.skoonline.org\en\tutoringpacks.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/qemcontrol
+File Name: C:\SKOHelp\help.skoonline.org\en\qemcontrol.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/answerconfig
+File Name: C:\SKOHelp\help.skoonline.org\en\answerconfig.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/agentmediaconfig
+File Name: C:\SKOHelp\help.skoonline.org\en\agentmediaconfig.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/agentname
+File Name: C:\SKOHelp\help.skoonline.org\en\agentname.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/keyeditor
+File Name: C:\SKOHelp\help.skoonline.org\en\keyeditor.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/answeragentconfig
+File Name: C:\SKOHelp\help.skoonline.org\en\answeragentconfig.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_generalidentifiercatalog
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_generalidentifiercatalog.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_generalidentifierentry
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_generalidentifierentry.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_generaltitlestring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_generaltitlestring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_generallanguage
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_generallanguage.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_generaldescriptionstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_generaldescriptionstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_generalkeywordstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_generalkeywordstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_generalcoveragestring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_generalcoveragestring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_generalstructure
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_generalstructure.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lifecycleversionstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lifecycleversionstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lifecyclestatus
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lifecyclestatus.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lifecyclecontributerole
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lifecyclecontributerole.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lifecyclecontributeentity
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lifecyclecontributeentity.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_metametadataindentifiercatalog
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_metametadataindentifiercatalog.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_metametadataindentifierschema
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_metametadataindentifierschema.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_metametadatacontributerole
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_metametadatacontributerole.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_metametadatacontributeentity
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_metametadatacontributeentity.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_metametadatametadataschema
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_metametadatametadataschema.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_metametadatalanguage
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_metametadatalanguage.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicalformat
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicalformat.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicalsize
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicalsize.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicallocation
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicallocation.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicaldurationduration
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicaldurationduration.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicalrequirementsorcompositetype
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicalrequirementsorcompositetype.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicalrequirementsorcompositename
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicalrequirementsorcompositename.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicalrequirementsorcompositeminimumversion
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicalrequirementsorcompositeminimumversion.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicalrequirementsorcompositemaximumversion
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicalrequirementsorcompositemaximumversion.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicalotherplatformrequirementsstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicalotherplatformrequirementsstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_technicalinstallationremarksstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_technicalinstallationremarksstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationalinteractivitytype
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationalinteractivitytype.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationallearningresourcetype
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationallearningresourcetype.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationalinteractivitylevel
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationalinteractivitylevel.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationalsemanticdensity
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationalsemanticdensity.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationalintendedenduserrole
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationalintendedenduserrole.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationalcontext
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationalcontext.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationaltypicalagerangestring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationaltypicalagerangestring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationaldifficulty
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationaldifficulty.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationaltypicallearningtimeduration
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationaltypicallearningtimeduration.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_educationallanguage
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_educationallanguage.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_rightscost
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_rightscost.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_rightscopyrightandotherrestrictions
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_rightscopyrightandotherrestrictions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_rightsdescriptionstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_rightsdescriptionstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_relationkind
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_relationkind.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_relationresourceidentifiercatalog
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_relationresourceidentifiercatalog.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_relationresourceidentifierentry
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_relationresourceidentifierentry.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_relationresourcedescriptionstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_relationresourcedescriptionstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_annotationentity
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_annotationentity.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_annotationdescriptionstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_annotationdescriptionstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_classificationpurpose
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_classificationpurpose.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_classificationtaxonpathsourcestring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_classificationtaxonpathsourcestring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_classificationtaxonpathtaxonid
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_classificationtaxonpathtaxonid.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_classificationtaxonpathtaxonentrystring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_classificationtaxonpathtaxonentrystring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_classificationdescriptionstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_classificationdescriptionstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_classificationkeywordstring
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_classificationkeywordstring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/helponloadinglom
+File Name: C:\SKOHelp\help.skoonline.org\en\helponloadinglom.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/helponsavinglom
+File Name: C:\SKOHelp\help.skoonline.org\en\helponsavinglom.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpcontiguity_effects
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpcontiguity_effects.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpperceptual_motor_grounding
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpperceptual_motor_grounding.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpdual_code_and_multimedia_effects
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpdual_code_and_multimedia_effects.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselptesting_effect
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselptesting_effect.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpspaced_effects
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpspaced_effects.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpexam_expectations
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpexam_expectations.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpgeneration_effect
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpgeneration_effect.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselporganization_effects
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselporganization_effects.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpcoherence_effect
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpcoherence_effect.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpstories_and_example_cases
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpstories_and_example_cases.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpmultiple_examples
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpmultiple_examples.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpfeedback_effects
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpfeedback_effects.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpnegative_suggestion_effects
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpnegative_suggestion_effects.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpdesirable_difficulties
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpdesirable_difficulties.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpmanageable_cognitive_load
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpmanageable_cognitive_load.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpsegmentation_principle
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpsegmentation_principle.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpexplanation_effect
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpexplanation_effect.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpdeep_questions
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpdeep_questions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpcognitive_disequilibriu
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpcognitive_disequilibriu.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpcognitive_flexibility
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpcognitive_flexibility.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpgoldilocks_principle
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpgoldilocks_principle.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpimperfect_metacognition
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpimperfect_metacognition.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpdiscovery_learning
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpdiscovery_learning.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpself_regulated_learning
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpself_regulated_learning.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lselpanchored_learning
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lselpanchored_learning.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lseqtverification
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lseqtverification.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lseqtdisjunctive
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lseqtdisjunctive.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lseqtconcept_completion
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lseqtconcept_completion.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lseqtexample
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lseqtexample.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lseqtfeature_specification
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lseqtfeature_specification.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lseqtquantification
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lseqtquantification.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lseqtdefinition_questions
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lseqtdefinition_questions.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lseqtcomparison
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lseqtcomparison.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/home/entry-page/step-by-step-instructions/testing-webasat-with-gift
+File Name: C:\SKOHelp\help.skoonline.org\home\entry-page\step-by-step-instructions\testing-webasat-with-gift.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/saveskowin
+File Name: C:\SKOHelp\help.skoonline.org\en\saveskowin.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/xmldisplaypanel
+File Name: C:\SKOHelp\help.skoonline.org\en\xmldisplaypanel.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/nextframe
+File Name: C:\SKOHelp\help.skoonline.org\en\nextframe.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/pnqeventdetails
+File Name: C:\SKOHelp\help.skoonline.org\en\pnqeventdetails.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/pnqeventtype
+File Name: C:\SKOHelp\help.skoonline.org\en\pnqeventtype.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/pnqtitle
+File Name: C:\SKOHelp\help.skoonline.org\en\pnqtitle.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/pnqinteractiontype
+File Name: C:\SKOHelp\help.skoonline.org\en\pnqinteractiontype.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/pnqagent
+File Name: C:\SKOHelp\help.skoonline.org\en\pnqagent.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/_/rsrc/1461453499000/system/app/images/spinner.gif
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1461453499000\system\app\images\spinner.gif
+Content Type: image/gif
+
+Uri: http://help.skoonline.org/en/titleofscene/skoexplan
+File Name: C:\SKOHelp\help.skoonline.org\en\titleofscene\skoexplan.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/pnqquestion
+File Name: C:\SKOHelp\help.skoonline.org\en\pnqquestion.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/expectationeditor?pli=1
+File Name: C:\SKOHelp\help.skoonline.org\en\expectationeditor.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/expectationeditor
+File Name: C:\SKOHelp\help.skoonline.org\en\expectationeditor-1.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/_/rsrc/1462548582324/config/5d0bad5735f55afa.png.1396810263268.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548582324\config\5d0bad5735f55afa.png.1396810263268.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612075/home/list-of-sko-modules/information-delivery-only/info delivery image 1.png?height=241&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612075\home\list-of-sko-modules\information-delivery-only\info delivery image 1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612074/home/list-of-sko-modules/information-delivery-only/Info Delivery image 2.png?height=229&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612074\home\list-of-sko-modules\information-delivery-only\Info Delivery image 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612075/home/list-of-sko-modules/information-delivery-with-self-reflection/Screen Shot 2014-02-23 at 7.52.52 AM.png?height=229&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612075\home\list-of-sko-modules\information-delivery-with-self-reflection\Screen Shot 2014-02-23 at 7.52.52 AM.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612076/home/list-of-sko-modules/information-delivery-with-self-reflection/Screen Shot 2014-02-23 at 7.57.13 AM.png?height=243&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612076\home\list-of-sko-modules\information-delivery-with-self-reflection\Screen Shot 2014-02-23 at 7.57.13 AM.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610132/en/panel2/Matching Assessment.png?attachauth=ANoY7cp0lWmZ3OBswvH7fy2iDNslcKW3WbunrSfUVKDnyYKRLmCGMGsPM2VAa3mwNWrl4JBD2RHzYHHolLkFhi8TEM5654S4x7gN0De_CoomQMKXlHWTnRdLHySp_wUn4ruSPEAHgX4IurSoRQFIU9nkPAWNpzYGvgBm7zLsRI7k1bbmjoq3HOp8E26jGr8JiHcxuh0aifqK9MZ3GwMU4sBvIKxHRaI9-OUtStCB89ncvDUgrfF2b30%3D&amp;attredirects=0&amp;height=240&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610132\en\panel2\Matching Assessment.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610133/en/panel2/matching pair.png?attachauth=ANoY7coahT6_C3sRYgTM3xDkET5UtRbaYKKOoyOwBMZ1A1SACc2tMMSNGOBFj2q8PS8W3dut85e6Q_5A0dKQfPXHSVOs3CpUSWhGeXrr5WhmepDZOHYERFaBgdSLThI18pzjf6V6CFAj_yRLTB1W97xC8ar9OzJ1p6nbvLZMdZaT0YZiUlGcC3ScYDwqmP7dWARaBahLInnWk2cvhb9kVrdjRh2vbBEJf8u54yWKGOS3D9YeuPy2JZI%3D&amp;attredirects=0&amp;height=212&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610133\en\panel2\matching pair.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612077/home/list-of-sko-modules/multiple-choice/Multiple CHoice Assessment Image 1.png?height=227&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612077\home\list-of-sko-modules\multiple-choice\Multiple CHoice Assessment Image 1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612077/home/list-of-sko-modules/multiple-choice/Multiple Choice Assessment Image.png?height=242&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612077\home\list-of-sko-modules\multiple-choice\Multiple Choice Assessment Image.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612073/home/list-of-sko-modules/fill-in-blank/Screen Shot 2014-02-23 at 12.26.50 PM.png?height=228
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612073\home\list-of-sko-modules\fill-in-blank\Screen Shot 2014-02-23 at 12.26.50 PM.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612073/home/list-of-sko-modules/fill-in-blank/Screen Shot 2014-02-23 at 1.09.39 PM.png?height=243
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612073\home\list-of-sko-modules\fill-in-blank\Screen Shot 2014-02-23 at 1.09.39 PM.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612079/home/list-of-sko-modules/tutoring-autotutor-lite/Screen Shot 2014-02-23 at 8.04.59 AM.png?height=229&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612079\home\list-of-sko-modules\tutoring-autotutor-lite\Screen Shot 2014-02-23 at 8.04.59 AM.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612079/home/list-of-sko-modules/tutoring-autotutor-lite/Screen Shot 2014-02-23 at 8.07.21 AM.png?height=241&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612079\home\list-of-sko-modules\tutoring-autotutor-lite\Screen Shot 2014-02-23 at 8.07.21 AM.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612071/home/list-of-sko-modules/auto-tutor-native/Screen Shot 2014-02-23 at 1.15.45 PM.png?height=227&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612071\home\list-of-sko-modules\auto-tutor-native\Screen Shot 2014-02-23 at 1.15.45 PM.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612071/home/list-of-sko-modules/auto-tutor-native/Screen Shot 2014-02-23 at 1.22.31 PM.png?height=240&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612071\home\list-of-sko-modules\auto-tutor-native\Screen Shot 2014-02-23 at 1.22.31 PM.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611585/home/entry-page/step-by-step-instructions/sbs 1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611585\home\entry-page\step-by-step-instructions\sbs 1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs3.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs3.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs4.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs4.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612578/home/entry-page/step-by-step-instructions/common-for-all/4-save-your-sko/save your sko.png?attachauth=ANoY7cq7YOPHUsa7Jepgu8BRZf9ovalPozNsDn_yaY_F9qwKi9KFvk-BIJWjNO6F5kC8Jzw9iRKnmRkuYQVoKkBZLDNIqG3XsqTNky1BSrQYztr8-aTORLbE8t48c64F9PSNIBk0CT8D5bYtic7ad01OjFsrUh-sQTtTjgR1XTK2w3mIauTxEOZf1ZBUFW5m3xR7JS7ErOVoOV1t1SOoFF1FRY5mSwjfzrTnNhpMB_cUYC54jkxtA4kdOXNjouOKuy9XI-Wrh8x8i8Lg5YfVqdN5Mwy62sDvjA5-7_nXw1LWwJ3saiy5y9tEavAsyMURZmGItEo-opCz&amp;attredirects=0&amp;height=287&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612578\home\entry-page\step-by-step-instructions\common-for-all\4-save-your-sko\save your sko.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs5.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs5.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs6.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs6.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs9.png?height=142&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs9.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611585/home/entry-page/step-by-step-instructions/sbs10.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611585\home\entry-page\step-by-step-instructions\sbs10.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611585/home/entry-page/step-by-step-instructions/sbs11.png?height=332&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611585\home\entry-page\step-by-step-instructions\sbs11.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611585/home/entry-page/step-by-step-instructions/sbs12.png?height=210&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611585\home\entry-page\step-by-step-instructions\sbs12.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611586/home/entry-page/step-by-step-instructions/sbs16.png?height=175&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611586\home\entry-page\step-by-step-instructions\sbs16.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs17.png?height=320&amp;width=308
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs17.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/2014-07-15 13_30_25-sko.skoonline.org_author.html.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\2014-07-15 13_30_25-sko.skoonline.org_author.html.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/Add ASAT button.png?height=309&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\Add ASAT button.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/ASAT in ATL interface.png?height=302&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\ASAT in ATL interface.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/Add Tutoring Pack button.png?height=112&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\Add Tutoring Pack button.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611575/home/captions/Tutoring Pack outline.png?height=287&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611575\home\captions\Tutoring Pack outline.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/TP Question.png?height=245&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\TP Question.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/TP Agent actions.png?height=225&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\TP Agent actions.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/Answer Features.png?height=208&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\Answer Features.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/TP Answer Text and Speech.png?height=207&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\TP Answer Text and Speech.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/TP expectations.png?height=207&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\TP expectations.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/TP expectations with highlight.png?height=207&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\TP expectations with highlight.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/Expectation Answers.png?height=206&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\Expectation Answers.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/TP Expectations Name and Keys.png?height=207&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\TP Expectations Name and Keys.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/Text and Speech tab expectations.png?height=204&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\Text and Speech tab expectations.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611575/home/captions/expectation hints.png?height=209&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611575\home\captions\expectation hints.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611575/home/captions/hint answers.png?height=188&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611575\home\captions\hint answers.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611575/home/captions/text and speech hints.png?height=209&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611575\home\captions\text and speech hints.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611575/home/captions/prompts.png?height=187&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611575\home\captions\prompts.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611575/home/captions/prompts answers for promts.png?height=188&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611575\home\captions\prompts answers for promts.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/TP Misconceptions.png?height=206&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\TP Misconceptions.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/TP Misconceptions answers.png?height=208&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\TP Misconceptions answers.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/TP Misconception Text and Speech.png?height=206&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\TP Misconception Text and Speech.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611573/home/captions/Misconception hints.png?height=206&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611573\home\captions\Misconception hints.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/Misconception Hint Answers.png?height=206&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\Misconception Hint Answers.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611573/home/captions/Misconception prompt.png?height=208&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611573\home\captions\Misconception prompt.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/Assessment Selection.png?height=303&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\Assessment Selection.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/Adding Tutoring to SKO.png?height=304&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\Adding Tutoring to SKO.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/Tutoring Assessment Seed Question.png?height=267&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\Tutoring Assessment Seed Question.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/Expectation Semantic Answer.png?height=267&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\Expectation Semantic Answer.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611574/home/captions/Semantic Answer Semantics Coverage.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611574\home\captions\Semantic Answer Semantics Coverage.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/expectationeditor/hints.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\expectationeditor\hints.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611104/home/captions/Expectation hint answers.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611104\home\captions\Expectation hint answers.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611585/home/entry-page/step-by-step-instructions/sbs 1.png?height=160&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611585\home\entry-page\step-by-step-instructions\sbs 1-1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs2.png?height=218&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs2-1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs7.png?height=226&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs7.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548612069/home/entry-page/step-by-step-instructions/sbs8.png?height=182&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548612069\home\entry-page\step-by-step-instructions\sbs8.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611585/home/entry-page/step-by-step-instructions/sbs13.png?height=320&amp;width=156
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611585\home\entry-page\step-by-step-instructions\sbs13.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611585/home/entry-page/step-by-step-instructions/sbs14.png?height=320&amp;width=143
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611585\home\entry-page\step-by-step-instructions\sbs14.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611586/home/entry-page/step-by-step-instructions/sbs15.png?height=149&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611586\home\entry-page\step-by-step-instructions\sbs15.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610627/en/relectioneditor/Self-Reflection Editor 1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610627\en\relectioneditor\Self-Reflection Editor 1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610627/en/relectioneditor/Self Reflection Editor 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610627\en\relectioneditor\Self Reflection Editor 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611102/en/testconfig/Run Test.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611102\en\testconfig\Run Test.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611102/en/testconfig/Share your SKO.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611102\en\testconfig\Share your SKO.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611102/en/testconfig/SHARE details.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611102\en\testconfig\SHARE details.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611102/en/testconfig/OPEN SKO.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611102\en\testconfig\OPEN SKO.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611101/en/teacheravatarpanel/Select Teacher new.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611101\en\teacheravatarpanel\Select Teacher new.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611102/en/teacheravatarpanel/Teacher Avatar 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611102\en\teacheravatarpanel\Teacher Avatar 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611102/en/teacheravatarpanel/Teacher Avatar 3.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611102\en\teacheravatarpanel\Teacher Avatar 3.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611101/en/teacheravatarpanel/Select Teacher new 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611101\en\teacheravatarpanel\Select Teacher new 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611101/en/teacheravatarpanel/Change Teacher Position 1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611101\en\teacheravatarpanel\Change Teacher Position 1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611101/en/teacheravatarpanel/Change Teacher Position 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611101\en\teacheravatarpanel\Change Teacher Position 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/pagecontrol1/Page Configuation Default.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\pagecontrol1\Page Configuation Default.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610625/en/questions/InfoDelivery Content Spoken.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610625\en\questions\InfoDelivery Content Spoken.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610625/en/questions/InfoDelivery Content Spoken Test and action.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610625\en\questions\InfoDelivery Content Spoken Test and action.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610625/en/questions/InfoDelivery Content Spoken actions.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610625\en\questions\InfoDelivery Content Spoken actions.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610625/en/questions/InfoDelivery Insert Actions 1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610625\en\questions\InfoDelivery Insert Actions 1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610625/en/questions/InfoDelivery Insert Actions 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610625\en\questions\InfoDelivery Insert Actions 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610626/en/questions/InfoDelivery Insert Actions 3.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610626\en\questions\InfoDelivery Insert Actions 3.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610626/en/questions/InfoDelivery Insert Actions 4.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610626\en\questions\InfoDelivery Insert Actions 4.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610626/en/questions/display text 2.png?height=241&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610626\en\questions\display text 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610626/en/questions/display text.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610626\en\questions\display text.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610626/en/questions/Text only Media Type.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610626\en\questions\Text only Media Type.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610130/en/mediaspecs/Text only Media Type.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610130\en\mediaspecs\Text only Media Type.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610130/en/mediaspecs/image only.png?height=243&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610130\en\mediaspecs\image only.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610130/en/mediaspecs/Media URL.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610130\en\mediaspecs\Media URL.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610627/en/relectioneditor/Self Reflection Editor 4.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610627\en\relectioneditor\Self Reflection Editor 4.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610627/en/relectioneditor/Self Reflection Editor 6.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610627\en\relectioneditor\Self Reflection Editor 6.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610627/en/relectioneditor/add rule.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610627\en\relectioneditor\add rule.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/expectationeditor/seed question.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\expectationeditor\seed question.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/expectationeditor/Expectation.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\expectationeditor\Expectation.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610625/en/qemcontrol/Expectation prompts.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610625\en\qemcontrol\Expectation prompts.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609087/en/configsemanticspace/Configure Semantic Engine.png?height=133&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609087\en\configsemanticspace\Configure Semantic Engine.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609086/en/addcannedspeech/add canned speech.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609086\en\addcannedspeech\add canned speech.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609089/en/keyeditor/Answer Keys.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609089\en\keyeditor\Answer Keys.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609086/en/agentname/Answers Label.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609086\en\agentname\Answers Label.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609086/en/agentmediaconfig/Untitled.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609086\en\agentmediaconfig\Untitled.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610625/en/qemcontrol/Tutor Pack Seed Question.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610625\en\qemcontrol\Tutor Pack Seed Question.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610625/en/qemcontrol/AUtoTutor in ATL Expectations.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610625\en\qemcontrol\AUtoTutor in ATL Expectations.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610625/en/qemcontrol/Expectation hints.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610625\en\qemcontrol\Expectation hints.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611103/en/tutoringpacks/Untitled.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611103\en\tutoringpacks\Untitled.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610626/en/regidpackeditor/Untitled.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610626\en\regidpackeditor\Untitled.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610628/en/rigidpackcontrol/Rigid Packs list.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610628\en\rigidpackcontrol\Rigid Packs list.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610628/en/rigidpackcontrol/Rigid Packs conversation.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610628\en\rigidpackcontrol\Rigid Packs conversation.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610628/en/rigidpackcontrol/Rigid Packs.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610628\en\rigidpackcontrol\Rigid Packs.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609089/en/listofspeeches/Untitled.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609089\en\listofspeeches\Untitled.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/genderanddisplayname/ASAT tutor agent.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\genderanddisplayname\ASAT tutor agent.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609089/en/loadlocalfile/Load ASAT.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609089\en\loadlocalfile\Load ASAT.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/fillintheblankauthoring/Fill in the blank.png?height=266&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\fillintheblankauthoring\Fill in the blank.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/fillintheblankauthoring/fill in the blank authoring.png?height=280&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\fillintheblankauthoring\fill in the blank authoring.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611101/en/studentavatarpanel1/Student Avatar 1 1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611101\en\studentavatarpanel1\Student Avatar 1 1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611101/en/studentavatarpanel1/Student Avatar 1 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611101\en\studentavatarpanel1\Student Avatar 1 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610132/en/panel2/Matching Assessment.png?height=300&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610132\en\panel2\Matching Assessment-1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610132/en/panel2/Matching Question.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610132\en\panel2\Matching Question.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610133/en/panel2/matching pair.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610133\en\panel2\matching pair-1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611101/en/studentavatarpanel2/Student Avatar 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611101\en\studentavatarpanel2\Student Avatar 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611101/en/studentavatarpanel2/Student Avatar 2 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611101\en\studentavatarpanel2\Student Avatar 2 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609087/en/choice_author/Multiple Choice AUthoring 2 Choice 1 with hint.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609087\en\choice_author\Multiple Choice AUthoring 2 Choice 1 with hint.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609087/en/choice_author/Multiple Choice authoring 4 feedback.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609087\en\choice_author\Multiple Choice authoring 4 feedback.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609087/en/choice_author/Multiple Choice authoring 1 Question.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609087\en\choice_author\Multiple Choice authoring 1 Question.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609087/en/choice_author/Multiple CHoice authoring 3 multiple choice phrasings.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609087\en\choice_author\Multiple CHoice authoring 3 multiple choice phrasings.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611102/en/titleofscene/InfoDelivery Author Notes Title of Scene.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611102\en\titleofscene\InfoDelivery Author Notes Title of Scene.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611102/en/titleofscene/InfoDelivery Author Notes Title of Scene 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611102\en\titleofscene\InfoDelivery Author Notes Title of Scene 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/notes/InfoDelivery Author Notes Scene Notes.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\notes\InfoDelivery Author Notes Scene Notes.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610130/en/mediaurls/Media URL.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610130\en\mediaurls\Media URL.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610130/en/mediaurls/Movie Only URL.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610130\en\mediaurls\Movie Only URL.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609087/en/backgroundimage/Background Img.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609087\en\backgroundimage\Background Img.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609087/en/backgroundimage/Background Image 2.png?height=242&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609087\en\backgroundimage\Background Image 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610133/en/pnqenable/P%26Q 1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610133\en\pnqenable\P&Q 1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610627/en/relectioneditor/Self Reflection Editor 3.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610627\en\relectioneditor\Self Reflection Editor 3.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/expectationeditor/Ideal Answer.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\expectationeditor\Ideal Answer.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_generalidentifiercatalog/generalidentifiercatalog1.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_generalidentifiercatalog\generalidentifiercatalog1.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_generalidentifierentry/generalidentifierentry.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_generalidentifierentry\generalidentifierentry.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_generaltitlestring/generaltitle.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_generaltitlestring\generaltitle.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_generallanguage/generallanguage.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_generallanguage\generallanguage.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_generaldescriptionstring/generaldescription.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_generaldescriptionstring\generaldescription.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_generalkeywordstring/generalkeyword.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_generalkeywordstring\generalkeyword.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_generalcoveragestring/generalcoverage.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_generalcoveragestring\generalcoverage.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_generalstructure/generalstructure.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_generalstructure\generalstructure.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_lifecycleversionstring/lifecycleversion.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_lifecycleversionstring\lifecycleversion.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_lifecyclestatus/lifecyclestatus.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_lifecyclestatus\lifecyclestatus.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_lifecyclecontributerole/lifecyclecontributerole.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_lifecyclecontributerole\lifecyclecontributerole.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_lifecyclecontributeentity/lifecyclecontributeentity.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_lifecyclecontributeentity\lifecyclecontributeentity.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609645/en/lom_metametadataindentifiercatalog/metametadataidentifiercatalog.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609645\en\lom_metametadataindentifiercatalog\metametadataidentifiercatalog.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609645/en/lom_metametadataindentifierschema/metametadataidentifierentry.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609645\en\lom_metametadataindentifierschema\metametadataidentifierentry.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609645/en/lom_metametadatacontributerole/metametadatacontributerole.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609645\en\lom_metametadatacontributerole\metametadatacontributerole.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_metametadatacontributeentity/metametadatacontributeentity.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_metametadatacontributeentity\metametadatacontributeentity.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609645/en/lom_metametadatametadataschema/metametadataschema.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609645\en\lom_metametadatametadataschema\metametadataschema.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609645/en/lom_metametadatalanguage/metametadatalanguage.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609645\en\lom_metametadatalanguage\metametadatalanguage.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610128/en/lom_technicalformat/technicalformat.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610128\en\lom_technicalformat\technicalformat.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610130/en/lom_technicalsize/technicalsize.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610130\en\lom_technicalsize\technicalsize.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610129/en/lom_technicallocation/technicallocation.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610129\en\lom_technicallocation\technicallocation.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610128/en/lom_technicaldurationduration/technicalduration.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610128\en\lom_technicaldurationduration\technicalduration.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610130/en/lom_technicalrequirementsorcompositetype/technicalrequirementstype.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610130\en\lom_technicalrequirementsorcompositetype\technicalrequirementstype.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610130/en/lom_technicalrequirementsorcompositename/technicalrequirementsname.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610130\en\lom_technicalrequirementsorcompositename\technicalrequirementsname.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610130/en/lom_technicalrequirementsorcompositeminimumversion/technicalrequirementsminimumversion.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610130\en\lom_technicalrequirementsorcompositeminimumversion\technicalrequirementsminimumversion.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610129/en/lom_technicalrequirementsorcompositemaximumversion/technicalrequirementsmaximumversion.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610129\en\lom_technicalrequirementsorcompositemaximumversion\technicalrequirementsmaximumversion.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610129/en/lom_technicalotherplatformrequirementsstring/technicalotherplatformrequirements.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610129\en\lom_technicalotherplatformrequirementsstring\technicalotherplatformrequirements.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610128/en/lom_technicalinstallationremarksstring/technicalinstalltionremarks.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610128\en\lom_technicalinstallationremarksstring\technicalinstalltionremarks.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationalinteractivitytype/educationalinteractivitytype.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationalinteractivitytype\educationalinteractivitytype.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationallearningresourcetype/educationallearningresourcetype.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationallearningresourcetype\educationallearningresourcetype.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationalinteractivitylevel/educationalinteractivitylevel.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationalinteractivitylevel\educationalinteractivitylevel.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationalsemanticdensity/educationalsemanticdensity.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationalsemanticdensity\educationalsemanticdensity.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationalintendedenduserrole/educationalintendeduserrole.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationalintendedenduserrole\educationalintendeduserrole.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationalcontext/educationalcontext.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationalcontext\educationalcontext.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationaltypicalagerangestring/educationaltypicalagerange.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationaltypicalagerangestring\educationaltypicalagerange.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationaldifficulty/educationaldifficulty.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationaldifficulty\educationaldifficulty.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationaltypicallearningtimeduration/educationaltypicallearningtime.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationaltypicallearningtimeduration\educationaltypicallearningtime.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609643/en/lom_educationallanguage/educationallanguage.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609643\en\lom_educationallanguage\educationallanguage.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610128/en/lom_rightscost/rightscost.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610128\en\lom_rightscost\rightscost.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610128/en/lom_rightscopyrightandotherrestrictions/rightscopyrightandotherrestrictions.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610128\en\lom_rightscopyrightandotherrestrictions\rightscopyrightandotherrestrictions.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610128/en/lom_rightsdescriptionstring/rightsdescriptions.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610128\en\lom_rightsdescriptionstring\rightsdescriptions.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609645/en/lom_relationkind/relationkind.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609645\en\lom_relationkind\relationkind.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609645/en/lom_relationresourceidentifiercatalog/relationresourceidentifiercatalog.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609645\en\lom_relationresourceidentifiercatalog\relationresourceidentifiercatalog.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609645/en/lom_relationresourceidentifierentry/relationresourceidentifierentry.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609645\en\lom_relationresourceidentifierentry\relationresourceidentifierentry.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609645/en/lom_relationresourcedescriptionstring/relationresourcedescription.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609645\en\lom_relationresourcedescriptionstring\relationresourcedescription.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609089/en/lom_annotationentity/annotationentity.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609089\en\lom_annotationentity\annotationentity.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609089/en/lom_annotationdescriptionstring/annotationdescription.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609089\en\lom_annotationdescriptionstring\annotationdescription.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609642/en/lom_classificationpurpose/classificationpurpose.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609642\en\lom_classificationpurpose\classificationpurpose.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609642/en/lom_classificationtaxonpathsourcestring/classificationtaxonpathsource.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609642\en\lom_classificationtaxonpathsourcestring\classificationtaxonpathsource.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609642/en/lom_classificationtaxonpathtaxonid/classificationtaxonpathtaxonid.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609642\en\lom_classificationtaxonpathtaxonid\classificationtaxonpathtaxonid.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609642/en/lom_classificationtaxonpathtaxonentrystring/classificationtaxonpathtaxonentry.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609642\en\lom_classificationtaxonpathtaxonentrystring\classificationtaxonpathtaxonentry.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609642/en/lom_classificationdescriptionstring/classificationdescription.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609642\en\lom_classificationdescriptionstring\classificationdescription.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609642/en/lom_classificationkeywordstring/classificationkeyword.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609642\en\lom_classificationkeywordstring\classificationkeyword.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/helponloadinglom/lombrowse.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\helponloadinglom\lombrowse.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/helponloadinglom/browsw_lom.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\helponloadinglom\browsw_lom.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609088/en/helponsavinglom/save_lom.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609088\en\helponsavinglom\save_lom.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611100/en/saveskowin/Save SKO.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611100\en\saveskowin\Save SKO.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610629/en/saveskowin/Save SKO 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610629\en\saveskowin\Save SKO 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610629/en/saveskowin/Examine and Save MPR Files.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610629\en\saveskowin\Examine and Save MPR Files.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611103/en/xmldisplaypanel/View XML.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611103\en\xmldisplaypanel\View XML.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611103/en/xmldisplaypanel/XML script 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611103\en\xmldisplaypanel\XML script 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/nextframe/Logical Next.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\nextframe\Logical Next.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548611102/en/testconfig/Screenshot 2014-02-04 13.03.33.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548611102\en\testconfig\Screenshot 2014-02-04 13.03.33.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/nextframe/Logical Next 3.1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\nextframe\Logical Next 3.1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/nextframe/Logical Next 4.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\nextframe\Logical Next 4.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610133/en/pnqeventtype/PQ Event Type.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610133\en\pnqeventtype\PQ Event Type.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610133/en/pnqeventtype/PQ Event URL.png?height=153&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610133\en\pnqeventtype\PQ Event URL.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610623/en/pnqeventtype/Test URL.png?height=122&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610623\en\pnqeventtype\Test URL.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610623/en/pnqeventtype/Test URL 3.png?height=254&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610623\en\pnqeventtype\Test URL 3.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610623/en/pnqeventtype/PQ SKO.png?height=172&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610623\en\pnqeventtype\PQ SKO.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610133/en/pnqeventtype/PQ SKO 2.png?height=130&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610133\en\pnqeventtype\PQ SKO 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610133/en/pnqeventtype/PQ SKO 3.png?height=300&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610133\en\pnqeventtype\PQ SKO 3.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610623/en/pnqeventtype/PopUpTest 1.png?height=315&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610623\en\pnqeventtype\PopUpTest 1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610623/en/pnqeventtype/PopUpTest2.png?height=265&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610623\en\pnqeventtype\PopUpTest2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610624/en/pnqlocation/Point and Query Location.png?height=180&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610624\en\pnqlocation\Point and Query Location.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610624/en/pnqlocation/PnQ Construct.png?height=300&amp;width=400
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610624\en\pnqlocation\PnQ Construct.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610133/en/pnqeventdetails/PnQ Event Information.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610133\en\pnqeventdetails\PnQ Event Information.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610623/en/pnqinteractiontype/Hotspot Test.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610623\en\pnqinteractiontype\Hotspot Test.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610624/en/pnqinteractiontype/PQ Type 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610624\en\pnqinteractiontype\PQ Type 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610624/en/pnqtitle/Title of PNQ.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610624\en\pnqtitle\Title of PNQ.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610133/en/pnqagent/Use Agent.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610133\en\pnqagent\Use Agent.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610629/en/saveskowin/Generate files on server box.png?height=35&amp;width=320
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610629\en\saveskowin\Generate files on server box.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462814821814/en/pnqquestion/Road-under-construction.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462814821814\en\pnqquestion\Road-under-construction.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/system/app/pages/subPages?path=/en
+File Name: C:\SKOHelp\help.skoonline.org\system\app\pages\subPages.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/system/app/pages/subPages
+File Name: C:\SKOHelp\help.skoonline.org\system\app\pages\subPages-1.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/adddeleteacts
+File Name: C:\SKOHelp\help.skoonline.org\en\adddeleteacts.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/adddeleterules
+File Name: C:\SKOHelp\help.skoonline.org\en\adddeleterules.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/addanddeletespeechact
+File Name: C:\SKOHelp\help.skoonline.org\en\addanddeletespeechact.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/agentcontrolpanel
+File Name: C:\SKOHelp\help.skoonline.org\en\agentcontrolpanel.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/titlefirstlastname
+File Name: C:\SKOHelp\help.skoonline.org\en\titlefirstlastname.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_annotationdatedatetime
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_annotationdatedatetime.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/ananswereditor
+File Name: C:\SKOHelp\help.skoonline.org\en\ananswereditor.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/agenttextandspeech
+File Name: C:\SKOHelp\help.skoonline.org\en\agenttextandspeech.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/movecenter
+File Name: C:\SKOHelp\help.skoonline.org\en\movecenter.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/discussiondetails
+File Name: C:\SKOHelp\help.skoonline.org\en\discussiondetails.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/discussiontype
+File Name: C:\SKOHelp\help.skoonline.org\en\discussiontype.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/fillintheblankauthoring
+File Name: C:\SKOHelp\help.skoonline.org\en\fillintheblankauthoring.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_lifecyclecontributedatedatetime
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_lifecyclecontributedatedatetime.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/loadlocalfile-1
+File Name: C:\SKOHelp\help.skoonline.org\en\loadlocalfile-1.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom-annotation-decription
+File Name: C:\SKOHelp\help.skoonline.org\en\lom-annotation-decription.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lom_annotationdescriptionstring-1
+File Name: C:\SKOHelp\help.skoonline.org\en\lom_annotationdescriptionstring-1.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/en/lomedior
+File Name: C:\SKOHelp\help.skoonline.org\en\lomedior.htm
+Content Type: text/html
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609086/en/adddeleteacts/Untitled.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609086\en\adddeleteacts\Untitled.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609086/en/adddeleterules/Untitled.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609086\en\adddeleterules\Untitled.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609086/en/addanddeletespeechact/Untitled.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609086\en\addanddeletespeechact\Untitled.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609086/en/addidframewin/ADD SCENE.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609086\en\addidframewin\ADD SCENE.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609086/en/agentcontrolpanel/2014-02-07 14_20_30-authoring.html_asat%3D1%26MA%3D1%26FIB%3D1%26MC%3D1%26asatRL%3D1%26asatTP%3D1%26asatAT%3D1%26asatSA%3D1%26asatRP.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609086\en\agentcontrolpanel\2014-02-07 14_20_30-authoring.html_asat=1&MA=1&FIB=1&MC=1&asatRL=1&asatTP=1&asatAT=1&asatSA=1&asatRP.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609089/en/lom_annotationdatedatetime/annotationdate.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609089\en\lom_annotationdatedatetime\annotationdate.jpg
+Content Type: image/jpeg
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609087/en/agenttextandspeech/Answer Text and Speech.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609087\en\agenttextandspeech\Answer Text and Speech.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/movecenter/Change Component Position1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\movecenter\Change Component Position1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/movecenter/Change Component Position 2.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\movecenter\Change Component Position 2.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/movecenter/Change Component Position 3.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\movecenter\Change Component Position 3.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/movecenter/Change Component 3.1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\movecenter\Change Component 3.1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/movecenter/Change Component Position 4.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\movecenter\Change Component Position 4.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548610131/en/movecenter/Change Component Position 4.1.png
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548610131\en\movecenter\Change Component Position 4.1.png
+Content Type: image/png
+
+Uri: http://help.skoonline.org/_/rsrc/1462548609644/en/lom_lifecyclecontributedatedatetime/lifecyclecontributedate.JPG
+File Name: C:\SKOHelp\help.skoonline.org\_\rsrc\1462548609644\en\lom_lifecyclecontributedatedatetime\lifecyclecontributedate.jpg
+Content Type: image/jpeg
+
